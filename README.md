@@ -4,7 +4,7 @@ An adventure game written in Java. The design of the game and all the codes and 
 ## How to play
 
 You can either download the source codes and run the `Main.java`, or download this [TheMadHouse.zip](https://github.com/Trotyl15/TheMadHouse/files/7772449/TheMadHouse.zip)
-), and run the jar file (recommended). You may use your cursor to inspect on objects and `wasd` to move.
+), and run the .jar file (recommended). You may use your cursor to inspect on objects and `wasd` to move.
 
 ## Screenshots
 ![f85fd7bb053402fb9769b3f8bda8b73](https://user-images.githubusercontent.com/55414757/146875084-4a6c6143-2f2f-41f1-b5e0-d5ea29647e03.jpg)
