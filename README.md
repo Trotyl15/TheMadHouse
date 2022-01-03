@@ -1,5 +1,5 @@
 # TheMadHouse
-An advanture game written in Java. The design of the game and all the codes and arts are all written and drawn by me ([@trotyl15](https://github.com/Trotyl15)) in 2019 December - 2020 January.
+An adventure game written in Java. The design of the game and all the codes and arts are all written and drawn by me ([@trotyl15](https://github.com/Trotyl15)) in 2019 December - 2020 January.
 
 ## How to play
 
